@@ -1,1 +1,1 @@
-gold coin XSS02
+gold coin 6D0GP
